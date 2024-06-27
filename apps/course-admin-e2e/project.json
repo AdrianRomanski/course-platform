@@ -1,5 +1,6 @@
 {
   "name": "course-admin-e2e",
+  "tags": ["scope:course-admin"],
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
   "sourceRoot": "apps/course-admin-e2e/src",

@@ -4,7 +4,7 @@
   "projectType": "application",
   "prefix": "app",
   "sourceRoot": "apps/course-client/src",
-  "tags": [],
+  "tags": ["scope:course-client", "type:app"],
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:application",
